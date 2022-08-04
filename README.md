@@ -27,3 +27,5 @@ To complete this project, your team should:
 * Compare results with at least two unsupervised algorithms like KMeans and DBScan.
 
 You can find datas in file "uber-raw-data-apr14.csv"
+
+Plot of the DBScan clustering can be seen on the png file.
